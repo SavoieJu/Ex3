@@ -27,3 +27,15 @@ nav a {
     text-decoration: none;
     color: black;
 }
+
+nav a:hover {
+    color: white;
+    background-color: black;
+}
+
+header h2 {
+    text-align: center;   
+    font-family: 'Alata', sans-serif; 
+    background-color: black;
+    color: white;
+}
